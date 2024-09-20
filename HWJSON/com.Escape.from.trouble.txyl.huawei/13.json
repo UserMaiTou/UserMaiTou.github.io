@@ -1,0 +1,17 @@
+{
+    "nativesmall_lull": 30000,
+    "interstitial_lull": 10000,
+    "interstitialreward_lull": false,
+    "isLoggingEnabled": false,
+    "STshowInterstitial": 60000,
+    "STshowInterstitialSwitch": false,
+    "SThandlerShowNative": 90000,
+    "noadRewardTime": 80000,
+    "ad_id_native": "g0n80f7oa8",
+    "ad_id_native_small": "w4wnhpmvtu",
+    "ad_id_native_three": "b3i5zyuuro",
+    "ad_id_reward": "m61gvrmi92",
+    "ad_id_noadreward": "c75ztmpjy3",
+    "ad_id_interstitial": "l1su4jgy7a",
+    "ad_id_splash": "b3nzp3cjwx"
+}
