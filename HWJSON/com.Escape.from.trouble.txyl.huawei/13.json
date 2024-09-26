@@ -1,7 +1,7 @@
 {
     "nativesmall_lull": 30000,
     "interstitial_lull": 10000,
-    "interstitialreward_lull": false,
+    "interstitialreward_lull": true,
     "isLoggingEnabled": false,
     "STshowInterstitial": 60000,
     "STshowInterstitialSwitch": false,
