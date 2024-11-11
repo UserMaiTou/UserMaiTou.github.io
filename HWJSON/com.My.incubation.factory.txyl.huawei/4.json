@@ -1,6 +1,6 @@
 {
   "isLoggingEnabled":false,
-  "noadRewardTime":60000，
+  "noadRewardTime":60000,
   "ads_settings": {
     "splash_ad": {
       "enabled": true
