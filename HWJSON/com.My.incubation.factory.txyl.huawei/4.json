@@ -22,7 +22,7 @@
     "native_banner": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 15,
+        "carousel_seconds": 15000,
         "daily_limit": 10
       }
     },
