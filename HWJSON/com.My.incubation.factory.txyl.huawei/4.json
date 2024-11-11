@@ -9,13 +9,13 @@
       "forced_popup": {
         "enabled": true,
         "daily_limit": 3,
-        "popup_delay_seconds": 5
+        "popup_delay_seconds": 1000
       }
     },
     "interstitial_and_native": {
       "forced_popup": {
         "enabled": true,
-        "popup_delay_seconds": 10,
+        "popup_delay_seconds": 30000,
         "daily_refresh_limit": 5
       }
     },
