@@ -9,25 +9,26 @@
     "CR": {
       "forced_popup": {
         "enabled": true,
-        "daily_limit": 3,
+        "daily_limit": 1000,
         "time_interval": 1000
+        "click":15
       }
     },
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "time_interval": 10000
+        "time_interval": 60000
       }
     },
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": true,
-        "popup_delay_seconds": 30000
+        "popup_delay_seconds": 60000
       }
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 3
+        "daily_limit": 1000
       }
     },
     "NB": {
@@ -39,7 +40,7 @@
     "NLI": {
       "accidental_click": {
         "enabled": true,
-        "click_chance_percentage": 200
+        "click_chance_percentage": 15
       }
     }
   }
