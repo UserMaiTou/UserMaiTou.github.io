@@ -1,6 +1,7 @@
 {
   "isLoggingEnabled":true,
-  "noadRewardTime":60000,
+  "noadReward_time":60000,
+  "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
       "enabled": true
@@ -16,7 +17,16 @@
       "forced_popup": {
         "enabled": true,
         "popup_delay_seconds": 30000,
-        "daily_refresh_limit": 5
+      }
+    },
+    "interstitial": {
+      "forced_popup": {
+        "daily_limit": 3,
+      }
+    },
+    "interstitial_native": {
+      "forced_popup": {
+        "daily_limit": 3,
       }
     },
     "native_banner": {
@@ -29,8 +39,8 @@
     "native_large_image": {
       "accidental_click": {
         "enabled": true,
-        "daily_limit": 3,
-        "click_chance_percentage": 20
+        "number_leads": 3,
+        "click_chance_percentage": 101
       }
     }
   }
