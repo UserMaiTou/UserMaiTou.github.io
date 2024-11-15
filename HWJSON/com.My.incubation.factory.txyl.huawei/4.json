@@ -8,7 +8,7 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "daily_limit": 1000,
         "time_interval": 1000,
         "click":15
@@ -16,13 +16,13 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "click": 10
       }
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },
@@ -38,13 +38,13 @@
     },
     "NB": {
       "carousel": {
-        "enabled": true,
+        "enabled": false,
         "carousel_seconds": 15000
       }
     },
     "NLI": {
       "accidental_click": {
-        "enabled": true,
+        "enabled": false,
         "click_chance_percentage": 15
       }
     }
