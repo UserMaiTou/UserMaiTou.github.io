@@ -17,7 +17,7 @@
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "time_interval": 60000
+        "click": 10
       }
     },
     "startAdCheckTimer": {
@@ -29,6 +29,11 @@
     "interstitial": {
       "forced_popup": {
         "daily_limit": 1000
+      }
+    },
+     "CI": {
+      "forced_popup": {
+        "time_interval": 1000
       }
     },
     "NB": {
