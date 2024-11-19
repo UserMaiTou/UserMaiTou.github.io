@@ -28,7 +28,7 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 1000
+        "daily_limit": 6000
       }
     },
      "CI": {
