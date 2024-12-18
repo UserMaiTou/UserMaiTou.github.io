@@ -1,5 +1,5 @@
 {
-  "isLoggingEnabled":true,
+  "isLoggingEnabled":false,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
@@ -44,8 +44,8 @@
     },
     "NLI": {
       "accidental_click": {
-        "enabled": true,
-        "click_chance_percentage": 101
+        "enabled": false,
+        "click_chance_percentage": 15
       }
     }
   }
