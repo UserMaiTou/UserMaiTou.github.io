@@ -4,7 +4,7 @@
   "ButtonVideo_on": false,
   "ButtonVideo_CD": 60000,
   "ButtonVideo_Num": 15,
-  "ButtonInter_on": true,
+  "ButtonInter_on": false,
   "ButtonInter_Num": 10,
   "NoVideo_InterOn": false,
   "NoVideoTime": 60000,
