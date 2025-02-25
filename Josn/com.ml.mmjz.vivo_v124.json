@@ -2,7 +2,7 @@
   "Splash_on": false,
   "ButtonDailyLimit": 1000,
   "ButtonVideo_on": false,
-  "ButtonVideo_CD": 60,
+  "ButtonVideo_CD": 60000,
   "ButtonVideo_Num": 15,
   "ButtonInter_on": false,
   "ButtonInter_Num": 10,
