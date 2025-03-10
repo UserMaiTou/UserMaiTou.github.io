@@ -1,0 +1,17 @@
+{
+  "Splash_on": true,
+  "ButtonDailyLimit": 1000,
+  "ButtonVideo_on": false,
+  "ButtonVideo_CD": 60000,
+  "ButtonVideo_Num": 15,
+  "ButtonInter_on": true,
+  "ButtonInter_Num": 10,
+  "NoVideo_InterOn": false,
+  "NoVideoTime": 60000,
+  "AllInterCD": 60000,
+  "InterDailyLimit": 1000,
+  "interstitial_on": true,
+  "banner_on": true,
+  "banner_refresh": 60000,
+  "nativeicon_on": true
+}
