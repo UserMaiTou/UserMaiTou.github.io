@@ -8,10 +8,10 @@
   "ButtonInter_Num": 10,
   "NoVideo_InterOn": false,
   "NoVideoTime": 60000,
-  "AllInterCD": 60000,
+  "AllInterCD": 10000,
   "InterDailyLimit": 1000,
   "interstitial_on": true,
   "banner_on": true,
-  "banner_refresh": 60000,
+  "banner_refresh": 15000,
   "nativeicon_on": true
 }
