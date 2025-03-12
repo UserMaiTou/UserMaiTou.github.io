@@ -8,7 +8,7 @@
   "ButtonInter_Num": 10,
   "NoVideo_InterOn": true,
   "NoVideoTime": 60000,
-  "AllInterCD": 10000,
+  "AllInterCD": 1000,
   "InterDailyLimit": 1000,
   "interstitial_on": true,
   "banner_on": true,
