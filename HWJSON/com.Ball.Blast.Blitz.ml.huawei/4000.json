@@ -1,9 +1,16 @@
+{
   "isLoggingEnabled":true,
   "noadReward_time":60000,
   "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
       "enabled": true
+    },
+     "checkNetWor": {
+      "forced_popup": {
+        "enabled": true,
+        "time_interval": 30000
+      }
     },
     "CR": {
       "forced_popup": {
@@ -22,12 +29,12 @@
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": true,
-        "popup_delay_seconds": 60000
+        "popup_delay_seconds": 40000
       }
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 100000
+        "daily_limit": 3000000
       }
     },
      "CI": {
