@@ -22,7 +22,7 @@
     },
     "CIF": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "click": 20
       }
     },
@@ -44,7 +44,7 @@
     },
     "NB": {
       "carousel": {
-        "enabled": true,
+        "enabled": false,
         "carousel_seconds": 15000
       }
     },
