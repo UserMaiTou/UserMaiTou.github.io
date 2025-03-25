@@ -15,14 +15,14 @@
     "CR": {
       "forced_popup": {
         "enabled": false,
-        "daily_limit": 1000,
+        "daily_limit": 100000,
         "time_interval": 1000,
         "click":15
       }
     },
     "CIF": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "click": 10
       }
     },
@@ -34,17 +34,17 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 1000
+        "daily_limit": 3000000
       }
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 30000
+        "time_interval": 10000
       }
     },
     "NB": {
       "carousel": {
-        "enabled": true,
+        "enabled": false,
         "carousel_seconds": 15000
       }
     },
