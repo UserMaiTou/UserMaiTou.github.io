@@ -17,13 +17,13 @@
         "enabled": true,
         "daily_limit": 100000,
         "time_interval": 1000,
-        "click":5
+        "click":15
       }
     },
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "click": 3
+        "click": 10
       }
     },
     "startAdCheckTimer": {
