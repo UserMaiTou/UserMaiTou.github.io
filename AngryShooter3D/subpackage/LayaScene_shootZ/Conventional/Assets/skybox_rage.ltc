@@ -1,8 +1,0 @@
-{
-	"front":"skybox_rage_PositiveZ.png",
-	"back":"skybox_rage_NegativeZ.png",
-	"left":"skybox_rage_PositiveX.png",
-	"right":"skybox_rage_NegativeX.png",
-	"up":"skybox_rage_PositiveY.png",
-	"down":"skybox_rage_NegativeY.png"
-}
