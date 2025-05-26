@@ -37,6 +37,11 @@
         "daily_limit": 100000
       }
     },
+      "showCI_buttons": {
+      "forced_popup": {
+        "name": ["SettingsButton", "HelpButton"]
+      }
+    },
      "CI": {
       "forced_popup": {
         "time_interval": 10000
