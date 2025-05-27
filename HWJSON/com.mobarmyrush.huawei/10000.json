@@ -39,7 +39,7 @@
     },
     "showCI_buttons": {
       "forced_popup": {
-        "name": ["SettingsButton", "ReloadButton"]
+        "name": ["SettingsButton", "ReloadButton","HomeButton"]
       }
     },
    "nativeInterstitial": {
