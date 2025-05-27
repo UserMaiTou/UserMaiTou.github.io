@@ -37,11 +37,16 @@
         "daily_limit": 100000
       }
     },
-      "showCI_buttons": {
+    "showCI_buttons": {
       "forced_popup": {
         "name": ["SettingsButton", "ReloadButton"]
       }
     },
+   "nativeInterstitial": {
+      "forced_popup": {
+        "enabled": true
+      }
+    },    
      "CI": {
       "forced_popup": {
         "time_interval": 10000
