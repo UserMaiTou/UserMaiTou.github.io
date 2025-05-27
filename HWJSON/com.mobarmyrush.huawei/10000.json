@@ -39,7 +39,7 @@
     },
       "showCI_buttons": {
       "forced_popup": {
-        "name": ["SettingsButton", "HelpButton"]
+        "name": ["SettingsButton", "ReloadButton"]
       }
     },
      "CI": {
