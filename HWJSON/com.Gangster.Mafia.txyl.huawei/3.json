@@ -4,7 +4,7 @@
   "noadReward_enabled":false,
   "ads_settings": {
     "splash_ad": {
-      "enabled": true
+      "enabled": false
     },
      "checkNetWor": {
       "forced_popup": {
