@@ -44,7 +44,7 @@
     },
    "nativeInterstitial": {
       "forced_popup": {
-        "enabled": false
+        "enabled": true
       }
     },    
      "CI": {
