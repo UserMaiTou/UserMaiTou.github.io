@@ -28,7 +28,7 @@
     },
      "showCI_buttons": {
       "forced_popup": {
-        "name": []
+        "name": [Button Hint]
       }
     },
     "nativeInterstitial": {
