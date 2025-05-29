@@ -31,6 +31,11 @@
         "name": []
       }
     },
+    "nativeInterstitial": {
+      "forced_popup": {
+        "enabled": true
+      }
+    },    
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": true,
