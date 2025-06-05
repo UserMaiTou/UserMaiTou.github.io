@@ -1,6 +1,6 @@
 {
   "banner_on": true,
-  "banner_cd": 60000,
+  "banner_cd": 40000,
   "interstitial_on": true,
   "interstitial_cd": 20000,
   "reserveInterstitial_on": true,
