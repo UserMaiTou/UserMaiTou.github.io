@@ -1,0 +1,9 @@
+{
+  "banner_on": true,
+  "banner_cd": 1000,
+  "interstitial_on": true,
+  "interstitial_cd": 60000,
+  "reserveInterstitial_on": true,
+  "reserveInterstitial_gap": 60000,
+  "nativeicon_on": true
+}
