@@ -1,5 +1,5 @@
 {
-  "banner_on": false,
+  "banner_on": true,
   "banner_cd": 40000,
   "interstitial_on": false,
   "interstitial_cd": 20000,
