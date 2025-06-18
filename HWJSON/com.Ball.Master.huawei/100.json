@@ -59,7 +59,7 @@
     },
      "CI": {
       "forced_popup": {
-        "time_interval": 60000
+        "time_interval": 10000
       }
     },
     "NB": {
