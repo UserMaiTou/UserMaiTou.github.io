@@ -1,9 +1,9 @@
 {
   "banner_on": true,
   "banner_cd": 40000,
-  "interstitial_on": false,
-  "interstitial_cd": 20000,
+  "interstitial_on": true,
+  "interstitial_cd": 60000,
   "reserveInterstitial_on": true,
-  "reserveInterstitial_gap": 60000,
+  "reserveInterstitial_gap": 20000,
   "nativeicon_on": true
 }
