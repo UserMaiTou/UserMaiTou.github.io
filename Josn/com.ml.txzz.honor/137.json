@@ -4,6 +4,6 @@
   "interstitial_on": true,
   "interstitial_cd": 60000,
   "reserveInterstitial_on": true,
-  "reserveInterstitial_gap": 20000,
+  "reserveInterstitial_gap": 10000,
   "nativeicon_on": true
 }
