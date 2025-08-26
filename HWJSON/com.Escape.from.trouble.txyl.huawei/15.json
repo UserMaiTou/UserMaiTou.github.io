@@ -4,7 +4,7 @@
   "noadReward_enabled":false,
   "ads_settings": {
     "splash_ad": {
-      "enabled": true
+      "enabled": false
     },
      "checkNetWor": {
       "forced_popup": {
@@ -26,6 +26,21 @@
         "click": 10
       }
     },
+     "showCI_buttons": {
+      "forced_popup": {
+        "name": ["Button Pause"]
+      }
+    },
+    "showCI_no": {
+      "forced_popup": {
+        "name": ["Button Hint"]
+      }
+    },
+    "nativeInterstitial": {
+      "forced_popup": {
+        "enabled": false
+      }
+    },    
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": false,
@@ -44,8 +59,8 @@
     },
     "NB": {
       "carousel": {
-        "enabled": false,
-        "carousel_seconds": 15000
+        "enabled": true,
+        "carousel_seconds": 40000
       }
     },
     "NLI": {

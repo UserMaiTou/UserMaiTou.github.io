@@ -26,6 +26,26 @@
         "click": 10
       }
     },
+     "showCI_buttons": {
+      "forced_popup": {
+        "name": ["Pause Button","Settings Button","Leave Button"]
+      }
+    },
+    "showCI_no": {
+      "forced_popup": {
+        "name": ["Continue Button","Pick All Skills For RV","Reroll For RV Button","Buy For RV Button","Revive Button","Double Reward Button Variant","Free Diamonds"]
+      }
+    },
+    "nativeInterstitial": {
+      "forced_popup": {
+        "enabled": false
+      }
+    },    
+    "loadingDialog": {
+      "forced_popup": {
+        "enabled": false
+      }
+    },   
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": false,
@@ -34,7 +54,7 @@
     },
     "interstitial": {
       "forced_popup": {
-        "daily_limit": 100000
+        "daily_limit": 1000000
       }
     },
      "CI": {
