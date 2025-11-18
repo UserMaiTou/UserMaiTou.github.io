@@ -1,13 +1,15 @@
-
 {
-  "isLoggingEnabled":true,
-  "noadReward_time":60000,
-  "noadReward_enabled":true,
+  "UmengAppKey": "690d996a9a7f376488ce539c",
+  "SGKey": "chenxigames_e527df7b",
+  "SGSecret": "8cf1f2e224e06a6a1d5d19c064a1fcc4",
+  "isLoggingEnabled": true,
+  "noadReward_time": 60000,
+  "noadReward_enabled": true,
   "ads_settings": {
     "splash_ad": {
       "enabled": true
     },
-     "checkNetWor": {
+    "checkNetWor": {
       "forced_popup": {
         "enabled": true,
         "time_interval": 30000
@@ -18,7 +20,7 @@
         "enabled": true,
         "daily_limit": 100000,
         "time_interval": 1000,
-        "click":15
+        "click": 15
       }
     },
     "CIF": {
@@ -27,7 +29,7 @@
         "click": 10
       }
     },
-     "showCI_buttons": {
+    "showCI_buttons": {
       "forced_popup": {
         "name": []
       }
@@ -41,7 +43,7 @@
       "forced_popup": {
         "enabled": false
       }
-    },    
+    },
     "startAdCheckTimer": {
       "forced_popup": {
         "enabled": false,
@@ -53,7 +55,7 @@
         "daily_limit": 1000000
       }
     },
-     "CI": {
+    "CI": {
       "forced_popup": {
         "time_interval": 10000
       }
