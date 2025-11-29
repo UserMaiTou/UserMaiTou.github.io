@@ -63,13 +63,13 @@
     "NB": {
       "carousel": {
         "enabled": true,
-        "carousel_seconds": 80000
+        "carousel_seconds": 10000
       }
     },
     "NLI": {
       "accidental_click": {
-        "enabled": true,
-        "click_chance_percentage": 100
+        "enabled": false,
+        "click_chance_percentage": 15
       }
     }
   }
