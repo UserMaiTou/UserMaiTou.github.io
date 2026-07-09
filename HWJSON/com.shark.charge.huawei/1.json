@@ -1,13 +1,53 @@
 {
-  "UmengAppKey": "690d996a9a7f376488ce539c",
-  "SGKey": "chenxigames_e527df7b",
-  "SGSecret": "8cf1f2e224e06a6a1d5d19c064a1fcc4",
   "isLoggingEnabled": true,
-  "noadReward_time": 60000,
   "noadReward_enabled": true,
+  "noadReward_time": 60000,
+  "getPrivacy": true,
   "ads_settings": {
     "splash_ad": {
       "enabled": true
+    },
+    "CR": {
+      "forced_popup": {
+        "enabled": true,
+        "daily_limit": 1000,
+        "click": 15,
+        "time_interval": 1000
+      }
+    },
+    "CIF": {
+      "forced_popup": {
+        "enabled": true,
+        "click": 10
+      }
+    },
+    "startAdCheckTimer": {
+      "forced_popup": {
+        "enabled": true,
+        "popup_delay_seconds": 60000
+      }
+    },
+    "interstitial": {
+      "forced_popup": {
+        "daily_limit": 1000
+      }
+    },
+    "CI": {
+      "forced_popup": {
+        "time_interval": 1000
+      }
+    },
+    "NB": {
+      "carousel": {
+        "enabled": true,
+        "carousel_seconds": 60000
+      }
+    },
+    "NLI": {
+      "accidental_click": {
+        "enabled": false,
+        "click_chance_percentage": -1
+      }
     },
     "checkNetWor": {
       "forced_popup": {
@@ -15,18 +55,14 @@
         "time_interval": 30000
       }
     },
-    "CR": {
+    "nativeInterstitial": {
       "forced_popup": {
-        "enabled": true,
-        "daily_limit": 100000,
-        "time_interval": 1000,
-        "click": 15
+        "enabled": true
       }
     },
-    "CIF": {
+    "loadingDialog": {
       "forced_popup": {
-        "enabled": true,
-        "click": 10
+        "enabled": true
       }
     },
     "showCI_buttons": {
@@ -37,39 +73,6 @@
     "showCI_no": {
       "forced_popup": {
         "name": []
-      }
-    },
-    "nativeInterstitial": {
-      "forced_popup": {
-        "enabled": false
-      }
-    },
-    "startAdCheckTimer": {
-      "forced_popup": {
-        "enabled": false,
-        "popup_delay_seconds": 60000
-      }
-    },
-    "interstitial": {
-      "forced_popup": {
-        "daily_limit": 1000000
-      }
-    },
-    "CI": {
-      "forced_popup": {
-        "time_interval": 10000
-      }
-    },
-    "NB": {
-      "carousel": {
-        "enabled": true,
-        "carousel_seconds": 10000
-      }
-    },
-    "NLI": {
-      "accidental_click": {
-        "enabled": false,
-        "click_chance_percentage": 15
       }
     }
   }
