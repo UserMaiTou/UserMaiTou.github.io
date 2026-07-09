@@ -43,7 +43,7 @@
     },    
     "loadingDialog": {
       "forced_popup": {
-        "enabled": true
+        "enabled": false
       }
     },   
     "startAdCheckTimer": {
