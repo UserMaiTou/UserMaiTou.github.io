@@ -11,19 +11,19 @@
       "forced_popup": {
         "enabled": true,
         "daily_limit": 1000,
-        "click": 15,
+        "click": 25,
         "time_interval": 1000
       }
     },
     "CIF": {
       "forced_popup": {
         "enabled": true,
-        "click": 10
+        "click": 15
       }
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },
@@ -62,17 +62,17 @@
     },
     "loadingDialog": {
       "forced_popup": {
-        "enabled": false
+        "enabled": true
       }
     },
     "showCI_buttons": {
       "forced_popup": {
-        "name": []
+        "name": ["SettingsBtn","LeaveCounterButton","DayEndButton"]
       }
     },
     "showCI_no": {
       "forced_popup": {
-        "name": []
+        "name": ["UI_Virtual_Button_Action"]
       }
     }
   }
