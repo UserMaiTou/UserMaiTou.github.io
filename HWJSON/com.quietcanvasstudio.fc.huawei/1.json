@@ -23,7 +23,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },
@@ -67,7 +67,7 @@
     },
     "showCI_buttons": {
       "forced_popup": {
-        "name": []
+        "name": ["btn_settings","btn_next",]
       }
     },
     "showCI_no": {
